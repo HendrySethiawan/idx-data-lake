@@ -136,7 +136,7 @@ Contributions are welcome and encouraged. Please follow these guidelines:
 For business inquiries, technical support, or partnership opportunities, please contact me at:
 
 - **Email**: h.sethiawan@gmail.com
-- **Professional Blog/Portfolio**: hrsethiawan.com
+- **Website**: [hrsethiawan.com](https://www.hrsethiawan.com/)
 
 ## 📜 License
 
