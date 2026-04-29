@@ -140,5 +140,13 @@ Contributions are welcome and encouraged. Please follow these guidelines:
 For collaboration, quant strategies, or prop-firm partnerships, please reach out via email or LinkedIn.
 
 ## 📜 License
-MIT
-```
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+<div align="center">
+<b>
+Engineering Signal & Strategy for the Indonesian Capital Market
+</b>
+</div>
