@@ -133,11 +133,9 @@ Contributions are welcome and encouraged. Please follow these guidelines:
 - Do not commit `.env`, credentials, or large binary files
 
 ## 📬 Contact
-- **Email**: [your.email@example.com]
-- **LinkedIn**: [linkedin.com/in/yourprofile]
-- **GitHub**: [github.com/yourusername]
-- **Professional Blog/Portfolio**: [yourwebsite.com]
-For collaboration, quant strategies, or prop-firm partnerships, please reach out via email or LinkedIn.
+For business inquiries, technical support, or partnership opportunities, please contact me at:
+- **Email**: [h.sethiawan@gmail.com]
+- **Professional Blog/Portfolio**: [hrsethiawan.com]
 
 ## 📜 License
 
@@ -147,6 +145,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 <b>
-Engineering Signal & Strategy for the Indonesian Capital Market
+Engineered to Bridge Signal Processing Precision with Quantitative Finance
 </b>
 </div>
