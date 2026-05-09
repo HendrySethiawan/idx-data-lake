@@ -1,7 +1,7 @@
 # IDX Real-Time Data Lake - Production
 
 ![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)
-![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)
 ![Docker](https://img.shields.io/badge/Docker-Ready-blue.svg)
 ![Status](https://img.shields.io/badge/Status-Production_Ready-brightgreen.svg)
 
